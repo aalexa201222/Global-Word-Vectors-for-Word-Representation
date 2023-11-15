@@ -26,4 +26,4 @@ git clone https://github.com/aalexa201222/Global-Word-Vectors-for-Word-Represent
 ## Contributors
 
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
-Sotiris Zeniosit
+Sotiris Zenios
